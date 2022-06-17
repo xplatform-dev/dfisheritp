@@ -27,7 +27,6 @@ I'm David. Preferred pronouns: He/His/Him/They/Their/Them. I have autism.
 ## 👨🏻‍🎓 Learning
 - Spring (Java Framework)
 - Server security
-- Bash
 - PowerShell
 
 ## 📫 Contact
