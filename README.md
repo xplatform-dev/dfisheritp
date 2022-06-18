@@ -36,9 +36,8 @@ I'm David. Preferred pronouns: He/His/Him/They/Their/Them. I have autism.
 
 [Website (not linked yet)]()
 
-TODO
----
-Setup email server for domain.
+### Did you know
+🌈 If the repository is deleted, GitHub removes your contribution history?🌟
 
 <!---
 dfisheritp/dfisheritp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
