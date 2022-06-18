@@ -31,6 +31,8 @@ I'm David. Preferred pronouns: He/His/Him/They/Their/Them. I have autism.
 
 ## 📫 Contact
 [e-mail me, but follow the directions](mailto:pac.dlfisher+replace_everything_after_plus_with_github@gmail.com?subject=Project%20or%20Repository%20Name&body=Introduce%20yourself%20and%20INCLUDE%20LINK%20TO%20SITE)
+[LinkedIn (not linked yet)]()
+[Website (not linked yet)]()
 
 TODO
 ---
