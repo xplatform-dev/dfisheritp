@@ -1,45 +1,14 @@
-# 👋
-```
-printf("%s", "H");
-std::cout << 'e';
-System.out.print('l');
-print('l', end=None)
-echo -e "o\c"
-System.Console.Write(",");
-console.log(" ");
-```
-I'm David. Preferred pronouns: He/His/Him/They/Their/Them. I have autism.
+# About
+I'm looking for a career in software development.
+I started programming in 2007 and never publicly shared my work.
+Most of it is hot garbage because this was always just a hobby.
+Over the next few months, I will be recovering projects that are over 15 years old.
 
-## 🎉 Fun Facts
-- My first program was Black Jack, NOT Hello, World! (C#, 2007)
-- Tutored programming in high school and college.
-- Competed in Google's code jam, no top 1000 finishes yet.
-- Cofounded WICS in college.
-- Expelled from college after disclosing a security vulnerability.
+My first program was a console version of BlackJack written in C# back in 2007 for a job interview at the company my dad worked at. I did not get the job.
+From there I would compete in Google CodeJams and never got much further than a top 10% finish.
+In college I tutored people in computer science that currently work for NASA.
+I was later expelled from college for demostrating a vulnerability that I reported because the department head asked me to.
 
-## 🌠 Interest
-- Artificial Intelliegence + Math
-- Cybersecurity
-- Fixing bugs
-- ADA compliance
-- Oh, and TTRPGs
+I have autism.
 
-## 👨🏻‍🎓 Learning
-- Spring (Java Framework)
-- Server security
-- PowerShell
-
-## 📫 Contact
-[e-mail me, but follow the directions](mailto:pac.dlfisher+replace_everything_after_plus_with_github@gmail.com?subject=Project%20or%20Repository%20Name&body=Introduce%20yourself%20and%20INCLUDE%20LINK%20TO%20SITE)
-
-[LinkedIn (not linked yet)]()
-
-[Website (not linked yet)]()
-
-### Did you know
-🌈 If the repository is deleted, GitHub removes your contribution history?🌟
-
-<!---
-dfisheritp/dfisheritp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My [LinkedIn](https://www.linkedin.com/in/david-fisher-37406489/)
