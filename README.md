@@ -53,10 +53,10 @@ Swim Coach for Special Olympics
 - Collaborate with other coaches and volunteers to organize and execute events and fundraisers
 
 ## About
-I've been programming for a long time, however my first non-procedural program was BlackJack for an interview written in C#. I've not touched the language since then.
-I tutored someone in computer science who now works for NASA.
-There's a strange knack for finding security problems. *I've been accused of being a corporate spy for reporting 3 on my first day at a company -- which makes no sense to me, why would I report it if it were true*
-I'm able to figure out how something works as long as I'm allowed to play with it.
-Top Secret Clearance clearable.
+- Been programming for a long time, however my first non-procedural program was BlackJack for an interview written in C#. I've not touched the language since then.
+- Tutored someone in computer science who now works for NASA.
+- There's a strange knack for finding security problems. *I've been accused of being a corporate spy for reporting 3 on my first day at a company -- which makes no sense to me, why would I report it if it were true*
+- Able to figure out how something works as long as I'm allowed to play with it.
+- Top Secret Clearance clearable.
 
 My [LinkedIn](https://www.linkedin.com/in/david-fisher-37406489/)
